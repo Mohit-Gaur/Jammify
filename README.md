@@ -7,7 +7,7 @@ A [Codecademy Pro Intensive](https://pro.codecademy.com/) project.
 
 ### View the app
 
-* On [Heroku](https://jammming-webapp.herokuapp.com/)
+* On 
 
 * In the project directory, run:
 
