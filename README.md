@@ -12,4 +12,4 @@ A web application, built with [React](https://github.com/facebookincubator/creat
 #### `npm start`
 
 This runs the app in development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Go to [http://localhost:3000](http://localhost:3000) to view it in the browser.
