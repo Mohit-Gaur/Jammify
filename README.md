@@ -5,7 +5,7 @@ A web application, built with [React](https://github.com/facebookincubator/creat
 
 ### View the app
 
-* On [Heroku](https://jammmify.herokuapp.com/)
+* On [Netlify](https://jammify.netlify.app/)
 
 * In the project directory, run:
 
