@@ -1,5 +1,5 @@
 const clientID = 'd51cf5936f5f4bdf92e31ad442bcd9f8';
-const redirectURI = 'https://jammmify.herokuapp.com/';
+const redirectURI = 'https://jammify.netlify.app/';
 
 let accessToken;
 
